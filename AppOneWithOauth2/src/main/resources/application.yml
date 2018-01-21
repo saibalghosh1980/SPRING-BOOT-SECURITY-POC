@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: AppOneWithOAuth2
+server:
+  port: 8081
+security:
+  oauth2:
+    resource:
+      token-info-uri: https://github.com/login/oauth/check_token
+#security:
+ # user:
+  #  name: admin
+   # password: password

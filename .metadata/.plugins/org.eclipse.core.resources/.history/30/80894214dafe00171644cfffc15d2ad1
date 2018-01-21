@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: AppOneWithOAuth2
+server:
+  port: 8081
+#security:
+ # user:
+  #  name: admin
+   # password: password

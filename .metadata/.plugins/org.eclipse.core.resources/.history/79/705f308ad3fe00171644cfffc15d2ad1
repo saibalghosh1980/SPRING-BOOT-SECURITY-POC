@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: AppOneWithOAuth2
+#security:
+ # user:
+  #  name: admin
+   # password: password
