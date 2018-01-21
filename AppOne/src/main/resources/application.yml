@@ -1,7 +1,7 @@
 spring:
   application:
     name: AppOne
-security:
-  user:
-    name: admin
-    password: password
+#security:
+ # user:
+  #  name: admin
+   # password: password

@@ -1,0 +1,6 @@
+https://spring.io/guides/gs/authenticating-ldap/
+
+
+Free LDAp Server
+https://www.forumsys.com/tutorials/integration-how-to/ldap/online-ldap-test-server/
+http://www.opencodez.com/java/configure-ldap-authentication-using-spring-boot.htm

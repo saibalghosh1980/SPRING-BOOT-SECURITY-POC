@@ -32,6 +32,8 @@ dependencies {
 	//compile('org.springframework.cloud:spring-cloud-starter-eureka')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('org.springframework.boot:spring-boot-starter-security')
+	compile("org.springframework.security:spring-security-ldap")
+	compile("org.springframework.ldap:spring-ldap-core")
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 
