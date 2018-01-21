@@ -1,0 +1,5 @@
+package com.cts.appone.security.ldap;
+
+public class CustomLdapAuthoritiesPopulator {
+
+}
