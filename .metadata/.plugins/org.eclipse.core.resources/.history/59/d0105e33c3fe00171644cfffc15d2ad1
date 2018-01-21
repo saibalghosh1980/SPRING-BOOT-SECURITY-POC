@@ -18,7 +18,6 @@ public class AppOneController {
 
 	@GetMapping("/admin")
 	public ResponseEntity<?> getResponseForAdminUser() {
-		sampleService.adminService();
 		return new ResponseEntity<String>("Hello!This is from AppOne. Only Admin user can access this", HttpStatus.OK);
 	}
 
